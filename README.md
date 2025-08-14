@@ -30,24 +30,29 @@ I'm a Full Stack Developer passionate about building modern web apps, dashboards
 </p>
 
 <h3 align="center">Projects</h3>
-<div align="center" style="display:flex; flex-direction: row; gap:16px; justify-content:center; align-items:center;">
-    <div>
+<div align="center" style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; align-items:center;">
     <a href="https://codebyamrit.co.in/file_manager_2025/" target="_blank">
-      <img src="https://raw.githubusercontent.com/CodeByAmrit/file_manager_2025/main/screenshots/banner.png" alt="StreamVision project card" width="820"  style="margin:8px;" />
+        <img src="https://raw.githubusercontent.com/CodeByAmrit/file_manager_2025/main/screenshots/banner.png" 
+             alt="File Manager" 
+             style="width:300px; height:auto; margin:8px; border-radius:8px;" />
     </a>
-    </div>
-    <div style="margin-top:20px;">
     <a href="https://edu.codebyamrit.co.in/" target="_blank">
-      <img src="https://raw.githubusercontent.com/CodeByAmrit/school/5e4b126ebf1c8cd43b49f0213927914bb5e3dfe4/public/image/logo.svg" alt="StudentTracker project card" width="700"  style="margin:8px; padding-bottom:15px" />
+        <img src="https://raw.githubusercontent.com/CodeByAmrit/school/5e4b126ebf1c8cd43b49f0213927914bb5e3dfe4/public/image/logo.svg" 
+             alt="Student Tracker" 
+             style="width:300px; height:auto; margin:8px; border-radius:8px;" />
     </a>
-    </div>
-    <div style="margin-top:20px;">
+    <a href="https://webricktech.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/webricktech/webricktech/5f540b0a65c01d040e6f231ab2b364646dd224b5/img/logos/logo-inner.svg" 
+             alt="WebrickTech" 
+             style="width:300px; height:auto; margin:8px; border-radius:8px;" />
+    </a>
     <a href="https://cctvcameralive.in" target="_blank">
-      <img src="https://github.com/CodeByAmrit/StreamVision/blob/master/public/images/banner.svg" alt="StudentTracker project card" width="700"  style="margin:8px; padding-bottom:15px" />
+        <img src="https://cctvcameralive.in/images/favicon.png" 
+             alt="CCTV Camera Live" 
+             style="width:100px; height:auto; margin:8px; border-radius:8px;" />
     </a>
-    </div>
-
 </div>
+
 
 <h3 align="center">Stats</h3>
 <div align="center">
@@ -70,6 +75,7 @@ I'm a Full Stack Developer passionate about building modern web apps, dashboards
       </tr>
     </table>
 </div>
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LoveKhatri/LoveKhatri/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
 
 <h3 align="center">Fun Fact / Quote</h3>
 <p align="center">
