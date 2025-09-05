@@ -47,7 +47,7 @@ I'm a Full Stack Developer passionate about building modern web apps, dashboards
              style="width:300px; height:auto; margin:8px; border-radius:8px;" />
     </a>
     <a href="https://cctvcameralive.in" target="_blank">
-        <img src="https://cctvcameralive.in/images/favicon.png" 
+        <img src="https://raw.githubusercontent.com/CodeByAmrit/StreamVision/refs/heads/master/public/images/logo.png" 
              alt="CCTV Camera Live" 
              style="width:100px; height:auto; margin:8px; border-radius:8px;" />
     </a>
