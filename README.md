@@ -14,14 +14,14 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="33%">
-      <a href="https://codebyamrit.co.in/file_manager_2025/">
+      <a href="https://amritsharma.dev/File-Manager/">
         <img src="https://raw.githubusercontent.com/CodeByAmrit/file_manager_2025/main/screenshots/banner.png" alt="File Manager" width="100%" />
       </a>
       <br />
       <b>File Manager</b>
     </td>
     <td align="center" width="33%">
-      <a href="https://edu.codebyamrit.co.in/">
+      <a href="https://edu.amritsharma.dev/">
         <img src="https://raw.githubusercontent.com/CodeByAmrit/school/5e4b126ebf1c8cd43b49f0213927914bb5e3dfe4/public/image/logo.svg" alt="Student Tracker" width="100%" />
       </a>
       <br />
